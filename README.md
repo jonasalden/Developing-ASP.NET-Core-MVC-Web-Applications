@@ -1,5 +1,5 @@
-# Developing-ASP.NET-Core-MVC-Web-Applications-Cornerstone
-Developing ASP.NET Core application with Microsoft Certiﬁed Partners Cornerstone
+# Developing-ASP.NET-Core-MVC-Web-Applications
+Developing ASP.NET Core application with Microsoft Certiﬁed Partners
 
 Module 1: Exploring ASP.NET Core MVC
 
